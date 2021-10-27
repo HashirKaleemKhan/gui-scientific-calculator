@@ -1,0 +1,4 @@
+1-Open 'GUICAl.sln' in Visual Studio Ultimate 2012 (other versions may give errors).
+2-Press 'Ctrl+F5' and in build pop-up press 'yes'.
+3-Press 'yes' again to run with the last successfull build.
+4-The GUI Calculator will then run.
